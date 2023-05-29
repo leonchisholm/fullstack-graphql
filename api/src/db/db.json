@@ -3,5 +3,119 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": 1,
+      "type": "CAT",
+      "name": "Tiger",
+      "owner": "Karen",
+      "img": "alt",
+      "createdAt": "2"
+    },
+    {
+      "id": "eiMzCdRw8E2Q3UH7kbV5b",
+      "createdAt": 1684265280184,
+      "name": "Doggo",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "y4MjJjqGnbgW5CYrtAK2K",
+      "createdAt": 1684265313710,
+      "name": "Cornflake",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "i6ZJ0MOGiH6MvY3p3UOB2",
+      "createdAt": 1684265459634,
+      "name": "Cornflake",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "1PRQ0s_6cdCP9cbcyE_1A",
+      "createdAt": 1684266177743,
+      "name": "Littlest Hobo",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "yx5tQwMbj50KNjMrhsMFJ",
+      "createdAt": 1684522325135,
+      "name": "Fido",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "hiLO1nRmL8YkQk3XcH4HM",
+      "createdAt": 1684522690554,
+      "name": "Princess",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "sOWoZRV7svSrf6JSRpY3j",
+      "createdAt": 1684522727460,
+      "name": "Rover",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "b1RhbLL_wPzYywWPkY17H",
+      "createdAt": 1684860664210,
+      "name": "Plantar Facetious",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "60lKePPDP5AQeQE7QEvmm",
+      "createdAt": 1684860686991,
+      "name": "Clementine",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "a_mFyx1NFoZzW_FpjyRWB",
+      "createdAt": 1684860925024,
+      "name": "Sophie",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "FUFfp3F438VmwHCw66far",
+      "createdAt": 1684861081959,
+      "name": "Caligula",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "IzySUefxeo2WYc-74IP4d",
+      "createdAt": 1684867052297,
+      "name": "Fido",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "rg0hk0tdCtMDGSJC5B76m",
+      "createdAt": 1684867072645,
+      "name": "Raphael",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "EWeK74tFIDKlczLj0YoNX",
+      "createdAt": 1684867110521,
+      "name": "Maramelade",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "CdaCFei1rds51yzXGobVj",
+      "createdAt": 1684867573252,
+      "name": "Metaphysic",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
